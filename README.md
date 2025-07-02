@@ -11,7 +11,7 @@ A Jupyter Notebook–based deep learning project to detect deepfake images of ca
 
 ## Installation
 ```bash
-git clone [<repository-url>](https://github.com/RanjithaNarasimhamurthy/)
+git clone https://github.com/RanjithaNarasimhamurthy/
 cd Deepfake-Cat-Detector
 pip install -r requirements.txt
 ```
