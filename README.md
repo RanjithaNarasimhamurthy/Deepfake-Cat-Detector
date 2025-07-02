@@ -11,8 +11,8 @@ A Jupyter Notebook–based deep learning project to detect deepfake images of ca
 
 ## Installation
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone [<repository-url>](https://github.com/RanjithaNarasimhamurthy/)
+cd Deepfake-Cat-Detector
 pip install -r requirements.txt
 ```
 
@@ -38,9 +38,3 @@ pip install -r requirements.txt
 ## Results
 The model achieves high accuracy in distinguishing real cat images from deepfakes. Feel free to adjust hyperparameters and explore different architectures.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-*Replace `<repository-url>` and `<repository-directory>` with your GitHub repository URL and local directory name.*
